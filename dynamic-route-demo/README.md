@@ -1,0 +1,3 @@
+# dynamic-route-demo
+
+This is a demo of a dynamic route in a Vue app...
